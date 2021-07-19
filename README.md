@@ -2,4 +2,4 @@
 
 Hello !
 
-Compliting the hello-worl tutorial
+Completing the hello-worl tutorial
